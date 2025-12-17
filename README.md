@@ -50,4 +50,6 @@ The objective is to understand **long-term trends, volatility, and market patter
 
 ## ✅ Conclusion
 
-This EDA provides valuable insights into **BMW stock behavior over nearly three decades** and serves as a strong foundation for **time-series analysis and predictive modeling**.
+BMW's stock has grown over time but has faced ups and downs, especially during big economic crises like 2008 and 2020. The year 2024 is very unpredictable, with large price swings. Trading volume was highest in crisis years, showing that more people bought and sold stocks during uncertain times.
+
+Overall, this EDA provides valuable insights into BMW's stock performance, highlighting trends, volatility, and key market influences, helping investors make informed decisions.
